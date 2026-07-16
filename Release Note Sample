@@ -1,0 +1,30 @@
+## 🚀 2. Release Notes
+
+### Introduction (Release 10.12)
+AES Release 10.12 enables comprehensive data handling operations for all four data streams available to the client. Prior to this enhancement, AES supported only three streams of live data. 
+
+#### **Defect Fixes:**
+*   **Defect Fix 1:** Integrates the September 2022 security patch, successfully overriding the performance issues observed during the previous security patch integration. 
+*   **Defect Fix 2:** The mobile application now supports 5G network functions across all data streams, leading to improved performance and stability. 
+
+### What’s New 
+AES Release 10.12 provides a highly stable operations environment and an improved user experience:
+*   **Performance Optimization:** Screen load time has been reduced from 6 nanoseconds to 4 nanoseconds.
+*   **Mobile Accessibility:** The application wizard is fully compatible with mobile operations, enhancing overall user accessibility. 
+
+#### **Application Management Wizard**
+*   **Navigation:** `Tasks tab` > `Tasks` > `Software Management` > `Application Management`
+*   **Functionality:** A new wizard that allows administrators to quickly and easily create policies to perform virus scans and repair Windows Installer applications.
+
+#### **Application Management Dashboard**
+*   **Navigation:** `Reports tab` > `Dashboards`
+*   **Functionality:** A newly integrated dashboard providing quick statistics from selected reports. Users can filter data by time intervals for a high-level picture of application states, or click on any statistic to drill down into detailed reports.
+
+### Dropped Features 
+*   None
+
+### Known Issues & Limitations
+*   The tool is certified strictly against **Windows XP** and **Windows Vista** operating systems/applications only.
+
+---
+
