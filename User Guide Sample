@@ -1,0 +1,38 @@
+# Product Documentation Portfolio
+
+---
+
+## 📘 1. Application User Guide
+
+### Introduction
+The **ABC Enterprise Server (AES)** solution enables users to connect to the organization’s proprietary network for various collaboration features and solution management. AES is designed to be a secure, centralized link between an organization's wireless network, communications software, applications, and user devices. 
+
+AES manages user access and controls by using the **ABC Administration Service (AAS)**. AAS is an authorized web-based tool used to provide technical support services to the end-users. 
+
+### Purpose 
+This document has been written to help you understand the existing infrastructure environment. It contains the standard operating procedures (SOPs) required for performing several activities on a day-to-day basis.
+
+### Operating Procedures 
+
+#### **Procedure 1: Adding a User Account to AAS** 
+This procedure contains detailed information on the entry criteria, step-by-step execution instructions, and the expected output.
+
+*   **Input / Entry Criteria:**
+    *   The user must have a valid account on the ABC Enterprise Server (AES).
+    *   The user account must exist on your organization's messaging server.
+
+*   **Steps / Tasks:**
+    1. On the *ABC Administration Service Home page*, navigate to the **AAS Solution Management** menu and expand the **User** menu item. 
+    2. Click **Create User**. *(The User Creation page appears)*.
+    3. Enter the search criteria to look up a user account and click **Search**. *(The user accounts will list based on your criteria)*.
+    4. Select the check box next to the target user account name and click **Continue**.
+    5. *Optional:* If your organization's environment includes multiple AES instances, select the specific **AES** you want to add the user account to.
+    6. *Optional:* If groups exist in the *Available groups* list, select the group you want to assign the user account to. 
+    7. Click **Add**.
+
+*   **Output / Exit Criteria:**
+    *   The user account is successfully added to AAS, and a confirmation email is triggered to the user.
+    *   Upon activating the account via the confirmation email, the user will be able to access technical support services and perform troubleshooting on the relevant servers.
+
+---
+
