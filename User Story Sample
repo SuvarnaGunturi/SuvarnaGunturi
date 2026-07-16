@@ -1,0 +1,40 @@
+## 📝 3. User Story: SmartCart CheckIn
+
+### User Story Statement
+> **As a** Customer,  
+> **I want to** use the SmartCart mobile application to schedule my store visit,  
+> **So that** I can upload my grocery list and schedule a curbside pickup.
+
+### Description
+The SmartCart application enables users to save shopping time by providing features such as *Grocery List Check-In*, *Schedule Grocery Pickup*, and *Daily Supplies*. It includes an interactive store guide for informed shopping decisions and provides real-time updates on promotional offers. 
+
+*   **Delivery Radius:** Customers can request home delivery for daily supplies (such as milk, bread, and fruits) within a 5 KM radius. 
+*   **Incentives:** SmartCart provides referral benefits, subscription-based discounts, and monthly savings on recurring visits.
+
+### Context Matrices
+
+| Category | Details |
+| :--- | :--- |
+| **Features** | New Customer registration, Store CheckIn, Self-checkout, Curbside Pickup |
+| **Personas** | Customer, Store Guide, Store Admin, Store Support Team |
+| **Constraints** | None |
+
+### Acceptance Criteria
+*   **Criteria 1:** Given the customer Store CheckIn is complete, the customer receives a confirmation message detailing the available slots for curbside pickup. 
+*   **Criteria 2:** Given the customer selects a pickup slot on the mobile application, a reminder notification is sent to the customer 30 minutes before the delivery slot confirming the details.
+
+### Workflow Gatekeepers
+
+#### **Definition of Ready (DoR)**
+*   Ensure the defined user story is easily comprehensible.
+*   Estimate and size the user story so that it can be comfortably completed within a single sprint.
+*   Provide clear value statements that help the Product Owner (PO) prioritize the backlog items. 
+*   Ensure that the wireframes and enabling specifications are 100% complete. 
+*   Verify there are zero external dependencies remaining. 
+*   Ensure performance criteria are identified, where applicable. 
+
+#### **Definition of Done (DoD)**
+*   Ensure the feature has been fully developed and unit tested. 
+*   Ensure the feature successfully meets all defined acceptance criteria. 
+*   Ensure release notes have been written and the feature is packaged for delivery to the customer. 
+*   Ensure the Product Owner (PO) formally accepts the finished features at the Sprint Review Meeting.
