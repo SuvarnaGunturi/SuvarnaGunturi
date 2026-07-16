@@ -68,9 +68,9 @@ Aiming to drive documentation excellence for **AI-enabled products** to ensure a
 ---
 
 ## 🎓 Education
-•	Graduated from Acharya Nagarjuna University in 2012 with an overall percentage of 87% in B. Tech (EEE).
-•	Scored 98% in Intermediate from the Board of Intermediate Education, Andhra Pradesh in 2008.
-•	Scored 95% in the tenth standard from the SSC Board, Andhra Pradesh in 2006.
+- Graduated from Acharya Nagarjuna University in 2012 with an overall percentage of 87% in B. Tech (EEE).
+-	Scored 98% in Intermediate from the Board of Intermediate Education, Andhra Pradesh in 2008.
+-	Scored 95% in the tenth standard from the SSC Board, Andhra Pradesh in 2006.
 
 
 ---
