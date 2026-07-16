@@ -30,7 +30,7 @@ Aiming to drive documentation excellence for **AI-enabled products** to ensure a
 
 ## 📈 Work Experience
 
-### 🏢 **Synopsys India Private Limited** **Senior Engineer, Customer Information Experience Group** | *July 2024 – Present* - 📝 **Content Development:** Author comprehensive user guides, API reference manuals, and application notes.
+### 🏢 **Synopsys India Private Limited** **Senior Engineer, Customer Information Experience Group** | *July 2024 – Present* - 📝 **Content Development:** Author comprehensive user guides, Command reference manuals, and application notes.
 - 🚀 **Release Engineering:** Review functional specifications, execute UI assessments, and deliver installation/release notes.
 - 💡 **Micro-learning:** Create product quick-tip videos and knowledge articles to simplify complex use cases.
 - 🤖 **AI & Automation:** - Leverage AI tools to automate first-draft generation, boosting overall productivity.
@@ -39,7 +39,7 @@ Aiming to drive documentation excellence for **AI-enabled products** to ensure a
 - 🔍 **SEO & Analytics:** Revamp and modularize DITA/user guide topics to boost SEO and optimize retrieval performance for the product's AI Knowledge Assistant based on user analytics.
 - 🤝 **Stakeholder Alignment:** Manage doc integration into the product build cycle and lead cross-functional release communications.
 
-### 🏢 **Eficaa Ensmart Solutions Private Limited** **Senior Technical Writer** | *Feb 2023 – July 2024* - 🔌 **Embedded Systems & Protocols:** Developed competency in embedded design concepts, smart metering standards, digital peripherals, and communication protocols (`I2C`, `SPI`), implementing device drivers.
+### 🏢 **Eficaa Ensmart Solutions Private Limited** **Senior Technical Writer** | *Feb 2023 – July 2024* -  📝 **Content Development:** Published Developer documentation 🔌 **Embedded Systems & Protocols:** Developed competency in embedded design concepts, smart metering standards, digital peripherals, and communication protocols (`I2C`, `SPI`), implementing device drivers.
 - 📜 **Standards & Testing:** Deciphered complex technical info (like `DLMS` standards) into robust test cases; tested products against rigorous certification standards.
 - 🔧 **Code Migration:** Performed code migration across IDEs to support various hardware makes and client configurations.
 - 👥 **Enablement & Demos:** Conducted high-impact product demos for client teams and built collateral/presentations for business units.
